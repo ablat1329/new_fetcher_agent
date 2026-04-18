@@ -38,6 +38,7 @@ python --version
 
 # Clone the repository
 git clone https://github.com/yourusername/ai-news-agent.git
+
 cd ai-news-agent
 
 # Create virtual environment
